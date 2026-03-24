@@ -20,7 +20,7 @@ Git_project/
 
 ## 🚀 How to Run
 Clone the repository using:  
-git clone https://github.com/your-username/Git_project.git  
+git clone (https://github.com/Princess2003/Git_project)  
 Then navigate into the folder:  
 cd Git_project  
 Make the script executable:  
